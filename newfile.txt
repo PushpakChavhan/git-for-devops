@@ -5,4 +5,9 @@ chaloo
 
 inserted on test environment
 
+<<<<<<< HEAD
 hello dosto this is edited by pushpak on test environment boomm
+=======
+
+again inserted from dev environment
+>>>>>>> 1508f85 (dev me add)
